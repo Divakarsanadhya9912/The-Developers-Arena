@@ -1,0 +1,86 @@
+2026-06-12 17:37:29,758 - INFO - Pipeline started for Mumbai
+2026-06-12 17:37:30,744 - INFO - Successfully processed Mumbai
+2026-06-12 17:40:09,240 - INFO - Pipeline started for Mumbai
+2026-06-12 17:40:10,290 - INFO - Successfully processed Mumbai
+2026-06-12 17:40:10,290 - INFO - Pipeline started for Delhi
+2026-06-12 17:40:11,124 - INFO - Successfully processed Delhi
+2026-06-12 17:40:11,125 - INFO - Pipeline started for Bangalore
+2026-06-12 17:40:11,787 - INFO - Successfully processed Bangalore
+2026-06-12 18:16:28,541 - INFO - Pipeline started for Mumbai
+2026-06-12 18:16:29,727 - INFO - Successfully processed Mumbai
+2026-06-12 18:16:29,728 - INFO - Pipeline started for Delhi
+2026-06-12 18:16:30,371 - INFO - Successfully processed Delhi
+2026-06-12 18:16:30,372 - INFO - Pipeline started for Bangalore
+2026-06-12 18:16:31,016 - INFO - Successfully processed Bangalore
+2026-06-12 21:37:27,723 - INFO - Pipeline started for Mumbai
+2026-06-12 21:37:28,819 - INFO - Mumbai data inserted successfully.
+2026-06-12 21:37:28,821 - INFO - Pipeline completed successfully for Mumbai
+2026-06-12 21:37:28,821 - INFO - Pipeline started for Delhi
+2026-06-12 21:37:29,401 - INFO - Delhi data inserted successfully.
+2026-06-12 21:37:29,402 - INFO - Pipeline completed successfully for Delhi
+2026-06-12 21:37:29,402 - INFO - Pipeline started for Bangalore
+2026-06-12 21:37:29,864 - INFO - Bangalore data inserted successfully.
+2026-06-12 21:37:29,865 - INFO - Pipeline completed successfully for Bangalore
+2026-06-12 22:03:48,989 - INFO - Pipeline started for Mumbai
+2026-06-12 22:03:49,919 - INFO - Mumbai data inserted successfully.
+2026-06-12 22:03:49,920 - INFO - Pipeline completed successfully for Mumbai
+2026-06-12 22:03:49,920 - INFO - Pipeline started for Delhi
+2026-06-12 22:03:50,506 - INFO - Delhi data inserted successfully.
+2026-06-12 22:03:50,507 - INFO - Pipeline completed successfully for Delhi
+2026-06-12 22:03:50,508 - INFO - Pipeline started for Bangalore
+2026-06-12 22:03:51,158 - INFO - Bangalore data inserted successfully.
+2026-06-12 22:03:51,159 - INFO - Pipeline completed successfully for Bangalore
+2026-06-12 22:09:27,720 - INFO - Pipeline started for Mumbai
+2026-06-12 22:09:28,488 - INFO - Mumbai data inserted successfully.
+2026-06-12 22:09:28,489 - INFO - Pipeline completed successfully for Mumbai
+2026-06-12 22:09:28,489 - INFO - Pipeline started for Delhi
+2026-06-12 22:09:29,287 - INFO - Delhi data inserted successfully.
+2026-06-12 22:09:29,288 - INFO - Pipeline completed successfully for Delhi
+2026-06-12 22:09:29,288 - INFO - Pipeline started for Bangalore
+2026-06-12 22:09:29,948 - INFO - Bangalore data inserted successfully.
+2026-06-12 22:09:29,949 - INFO - Pipeline completed successfully for Bangalore
+2026-06-12 22:20:06,658 - INFO - Pipeline started for Mumbai
+2026-06-12 22:20:08,176 - INFO - Mumbai data inserted successfully.
+2026-06-12 22:20:08,177 - INFO - Pipeline completed successfully for Mumbai
+2026-06-12 22:20:08,177 - INFO - Pipeline started for Delhi
+2026-06-12 22:20:08,758 - INFO - Delhi data inserted successfully.
+2026-06-12 22:20:08,759 - INFO - Pipeline completed successfully for Delhi
+2026-06-12 22:20:08,760 - INFO - Pipeline started for Bangalore
+2026-06-12 22:20:09,387 - INFO - Bangalore data inserted successfully.
+2026-06-12 22:20:09,388 - INFO - Pipeline completed successfully for Bangalore
+2026-06-12 22:20:28,597 - INFO - Pipeline started for Mumbai
+2026-06-12 22:20:29,364 - INFO - Mumbai data inserted successfully.
+2026-06-12 22:20:29,366 - INFO - Pipeline completed successfully for Mumbai
+2026-06-12 22:20:29,366 - INFO - Pipeline started for Delhi
+2026-06-12 22:20:29,938 - INFO - Delhi data inserted successfully.
+2026-06-12 22:20:29,938 - INFO - Pipeline completed successfully for Delhi
+2026-06-12 22:20:29,938 - INFO - Pipeline started for Bangalore
+2026-06-12 22:20:30,556 - INFO - Bangalore data inserted successfully.
+2026-06-12 22:20:30,558 - INFO - Pipeline completed successfully for Bangalore
+2026-06-12 22:20:49,247 - INFO - Pipeline started for Mumbai
+2026-06-12 22:20:49,914 - INFO - Mumbai data inserted successfully.
+2026-06-12 22:20:49,915 - INFO - Pipeline completed successfully for Mumbai
+2026-06-12 22:20:49,915 - INFO - Pipeline started for Delhi
+2026-06-12 22:20:50,539 - INFO - Delhi data inserted successfully.
+2026-06-12 22:20:50,540 - INFO - Pipeline completed successfully for Delhi
+2026-06-12 22:20:50,540 - INFO - Pipeline started for Bangalore
+2026-06-12 22:20:51,145 - INFO - Bangalore data inserted successfully.
+2026-06-12 22:20:51,147 - INFO - Pipeline completed successfully for Bangalore
+2026-06-12 22:24:19,327 - INFO - Pipeline started for Mumbai
+2026-06-12 22:24:20,096 - INFO - Mumbai data inserted successfully.
+2026-06-12 22:24:20,097 - INFO - Pipeline completed successfully for Mumbai
+2026-06-12 22:24:20,097 - INFO - Pipeline started for Delhi
+2026-06-12 22:24:20,709 - INFO - Delhi data inserted successfully.
+2026-06-12 22:24:20,710 - INFO - Pipeline completed successfully for Delhi
+2026-06-12 22:24:20,710 - INFO - Pipeline started for Bangalore
+2026-06-12 22:24:21,225 - INFO - Bangalore data inserted successfully.
+2026-06-12 22:24:21,226 - INFO - Pipeline completed successfully for Bangalore
+2026-06-12 22:24:37,798 - INFO - Pipeline started for Mumbai
+2026-06-12 22:24:38,411 - INFO - Mumbai data inserted successfully.
+2026-06-12 22:24:38,411 - INFO - Pipeline completed successfully for Mumbai
+2026-06-12 22:24:38,412 - INFO - Pipeline started for Delhi
+2026-06-12 22:24:39,045 - INFO - Delhi data inserted successfully.
+2026-06-12 22:24:39,046 - INFO - Pipeline completed successfully for Delhi
+2026-06-12 22:24:39,047 - INFO - Pipeline started for Bangalore
+2026-06-12 22:24:39,601 - INFO - Bangalore data inserted successfully.
+2026-06-12 22:24:39,601 - INFO - Pipeline completed successfully for Bangalore

@@ -1,0 +1,13 @@
+CURRENT WEATHER REPORT
+==============================
+
+Bangalore: 21.74°C, 86% humidity, Overcast Clouds
+Delhi: 36.14°C, 33% humidity, Clear Sky
+Mumbai: 31.03°C, 72% humidity, Overcast Clouds
+Bangalore: 21.74°C, 86% humidity, Overcast Clouds
+Delhi: 36.14°C, 33% humidity, Clear Sky
+Mumbai: 31.03°C, 72% humidity, Overcast Clouds
+Bangalore: 21.74°C, 86% humidity, Overcast Clouds
+Delhi: 36.14°C, 33% humidity, Clear Sky
+Mumbai: 31.03°C, 72% humidity, Overcast Clouds
+Bangalore: 21.74°C, 86% humidity, Overcast Clouds
