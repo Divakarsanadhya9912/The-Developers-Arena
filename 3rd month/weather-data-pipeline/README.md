@@ -83,8 +83,7 @@ Extract → Validate → Transform → Load
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/weather-data-pipeline.git
-cd weather-data-pipeline
+git clone https://github.com/Divakarsanadhya9912/The-Developers-Arena.git
 ````
 
 Install dependencies:
