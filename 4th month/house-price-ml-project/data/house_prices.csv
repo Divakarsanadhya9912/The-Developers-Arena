@@ -1,0 +1,301 @@
+area_sqft,bedrooms,bathrooms,age_years,floors,parking_spaces,location,property_type,price
+3574,1,1,14,19,1,City Center,Apartment,23603423
+3907,3,3,14,19,1,Suburbs,Studio,15844361
+1260,2,2,23,4,1,City Center,Apartment,12837137
+1694,3,3,21,4,1,Suburbs,Independent House,15265632
+1530,2,2,13,11,2,City Center,Independent House,19171296
+1495,3,2,25,5,1,Industrial Zone,Apartment,7340662
+3492,3,2,27,11,1,City Center,Independent House,30905136
+2038,5,5,22,10,2,Waterfront,Apartment,20830670
+2569,2,2,13,8,1,Suburbs,Apartment,14425598
+866,2,1,23,6,1,Industrial Zone,Independent House,6841976
+1638,2,2,1,6,2,Rural,Independent House,11853572
+730,5,4,12,8,1,Industrial Zone,Independent House,10008897
+1882,4,4,25,15,1,Industrial Zone,Villa,15191203
+2535,2,2,13,14,2,Suburbs,Apartment,15286063
+3844,3,2,26,11,0,Suburbs,Apartment,20894949
+3571,4,4,23,12,0,Suburbs,Apartment,21911457
+3319,3,2,18,13,1,Rural,Apartment,13589674
+530,3,3,6,8,2,City Center,Apartment,12043032
+2085,2,2,2,18,0,Suburbs,Apartment,14793605
+3780,1,1,14,1,0,Rural,Apartment,14447432
+1169,4,3,22,15,0,Rural,Apartment,9009760
+2791,5,5,13,8,0,Industrial Zone,Villa,20215354
+1915,3,3,10,11,0,Rural,Independent House,13404390
+3885,2,2,14,12,1,Waterfront,Apartment,24836779
+3253,2,2,27,12,1,Suburbs,Studio,12613930
+2833,4,3,12,4,1,Suburbs,Independent House,24137836
+1615,4,3,17,16,1,Suburbs,Apartment,15120645
+1355,4,4,25,4,0,Suburbs,Independent House,15825884
+2724,4,3,5,5,1,Industrial Zone,Villa,18871543
+1584,3,3,2,5,1,City Center,Villa,25439949
+859,1,1,18,8,2,Industrial Zone,Apartment,4419772
+3785,2,2,14,10,0,Suburbs,Villa,28804266
+421,4,3,24,17,1,Rural,Apartment,7093727
+2700,3,2,22,9,1,Rural,Villa,17864582
+1147,1,1,4,19,2,Suburbs,Independent House,13138295
+3304,2,1,27,14,2,Suburbs,Independent House,22637015
+874,3,2,9,8,1,Suburbs,Villa,15343802
+1482,1,1,6,9,1,City Center,Independent House,16920230
+2958,2,1,24,11,2,Suburbs,Apartment,16007139
+2447,3,2,16,1,0,City Center,Apartment,19223257
+3947,3,2,6,14,0,Suburbs,Independent House,28351672
+3147,3,3,21,5,1,Rural,Apartment,13316412
+1375,2,1,25,14,0,Rural,Apartment,7050496
+2206,4,3,29,4,2,Rural,Apartment,11095641
+589,2,1,11,1,2,City Center,Apartment,9895265
+3405,2,1,24,19,1,Rural,Studio,8937069
+3134,4,3,16,8,1,Suburbs,Villa,29599085
+3405,3,2,12,15,2,Suburbs,Studio,14327213
+962,4,3,19,15,2,Waterfront,Villa,22201035
+2299,3,2,24,9,1,City Center,Villa,28034001
+1667,3,2,3,9,2,Rural,Apartment,9724688
+3279,1,1,9,10,2,Rural,Independent House,15694319
+1928,3,2,2,9,2,Suburbs,Apartment,15462328
+3602,2,2,8,3,0,City Center,Independent House,31951402
+3956,2,2,12,11,1,City Center,Independent House,32988621
+1046,5,4,17,6,2,Waterfront,Apartment,15437699
+2468,3,2,14,2,1,Suburbs,Studio,10886561
+3288,4,4,3,7,2,Suburbs,Independent House,27250228
+2614,3,2,14,18,0,Suburbs,Independent House,21580859
+1697,4,4,21,2,0,Rural,Apartment,9618033
+2835,3,3,1,17,1,City Center,Villa,36139695
+1000,3,3,14,11,0,Suburbs,Villa,16255543
+2763,3,3,7,12,2,Rural,Apartment,13271199
+2461,2,2,7,19,2,Waterfront,Apartment,20502085
+641,4,3,16,7,2,Suburbs,Independent House,13077242
+2441,2,2,11,6,1,Suburbs,Apartment,15384539
+3224,1,1,18,1,1,Suburbs,Villa,24044359
+3817,3,2,9,17,1,Rural,Studio,12388710
+3012,2,2,8,11,1,Suburbs,Independent House,21803876
+3345,5,5,4,18,1,Suburbs,Apartment,23974654
+1763,5,4,5,17,1,Industrial Zone,Independent House,13868748
+2539,5,5,19,7,1,Industrial Zone,Apartment,12398141
+1790,3,3,25,17,1,Suburbs,Apartment,13297827
+3403,1,1,1,9,2,Waterfront,Independent House,29165505
+1878,5,4,26,17,2,Rural,Apartment,11942347
+3899,3,3,23,8,1,Suburbs,Apartment,21062910
+2956,5,4,26,17,1,City Center,Villa,38797818
+1175,5,5,12,7,2,Waterfront,Apartment,17624948
+434,4,4,5,1,0,City Center,Apartment,12450613
+2653,2,2,4,13,2,City Center,Villa,31632235
+3552,3,2,24,19,2,City Center,Independent House,32992771
+2355,4,3,0,19,1,Rural,Independent House,16847409
+1985,2,1,20,17,1,City Center,Apartment,17533369
+3859,2,1,21,13,1,City Center,Villa,38367810
+3473,3,2,20,16,1,City Center,Apartment,25623359
+1421,5,5,5,8,0,City Center,Apartment,19485297
+3861,3,3,5,19,2,Rural,Independent House,20515827
+3013,3,3,22,18,0,Rural,Apartment,13271534
+1529,1,1,15,1,1,Suburbs,Apartment,9174503
+1900,3,2,3,14,2,Suburbs,Independent House,19121345
+1102,5,5,29,19,2,Rural,Independent House,13183326
+2849,2,1,10,15,1,City Center,Independent House,26594668
+3177,3,3,29,18,1,Suburbs,Apartment,19204695
+1979,4,3,29,2,0,Waterfront,Apartment,16782160
+561,4,3,29,17,1,Rural,Apartment,6747566
+601,3,3,23,18,0,Suburbs,Apartment,8638368
+2381,4,4,22,6,1,Suburbs,Independent House,19920745
+1395,3,3,8,19,2,Suburbs,Independent House,16828920
+2717,2,2,22,4,0,Suburbs,Independent House,19024788
+1215,4,3,2,1,2,City Center,Independent House,21327305
+3742,4,4,18,8,2,City Center,Villa,43483419
+855,4,4,7,7,0,City Center,Independent House,19168851
+3933,5,4,4,3,2,Waterfront,Apartment,29989906
+1675,3,3,3,10,1,Industrial Zone,Villa,14778811
+1416,3,3,23,10,2,City Center,Villa,23840896
+2743,4,4,5,19,1,City Center,Apartment,25670633
+3167,3,3,1,14,1,Industrial Zone,Apartment,14770171
+737,4,4,19,2,1,City Center,Studio,10309193
+1278,4,3,27,1,2,City Center,Apartment,14709965
+1476,4,4,10,18,2,Waterfront,Apartment,17965630
+1191,2,2,3,7,1,Suburbs,Villa,15935293
+2664,3,3,14,8,2,Rural,Independent House,15025932
+1163,1,1,5,1,1,Waterfront,Villa,16286061
+2635,3,3,21,3,0,Suburbs,Independent House,20833520
+779,1,1,16,8,0,City Center,Apartment,7811081
+892,3,3,29,15,1,City Center,Independent House,15024773
+3512,3,2,23,5,1,Industrial Zone,Apartment,13070434
+1580,2,1,5,3,2,Waterfront,Independent House,17583907
+2462,3,3,18,19,0,Industrial Zone,Independent House,13880419
+464,1,1,29,1,1,City Center,Apartment,5741435
+2968,1,1,24,15,0,Industrial Zone,Apartment,10294729
+1767,4,4,1,8,2,Waterfront,Apartment,19378347
+1552,3,2,14,2,2,Rural,Apartment,8547993
+2427,2,2,10,3,1,Waterfront,Apartment,18819729
+3095,3,3,7,14,2,Industrial Zone,Independent House,17411545
+1895,4,4,25,14,0,Rural,Villa,15668728
+3534,2,2,18,11,2,Rural,Apartment,12651401
+1562,3,3,12,16,1,Suburbs,Apartment,14058387
+1922,1,1,11,4,2,City Center,Apartment,14459399
+3040,1,1,4,5,0,Rural,Independent House,14956372
+791,3,2,5,14,1,Suburbs,Apartment,9687514
+2098,3,3,25,16,2,Waterfront,Independent House,23502689
+818,3,3,21,18,1,Waterfront,Independent House,16886271
+2736,4,4,3,7,0,Industrial Zone,Independent House,16540778
+778,5,4,18,10,0,City Center,Independent House,18753198
+2196,3,3,19,7,1,Suburbs,Apartment,14849530
+3961,2,1,0,1,1,City Center,Studio,19073129
+2678,4,4,19,19,0,Rural,Apartment,13870243
+3465,2,2,16,16,1,Industrial Zone,Apartment,13639874
+2488,3,3,11,19,0,Waterfront,Independent House,26007666
+3499,1,1,14,4,2,Suburbs,Studio,12572063
+2582,1,1,0,18,0,Waterfront,Independent House,23584953
+600,5,4,25,2,1,Waterfront,Apartment,12228642
+2263,4,4,13,1,0,Suburbs,Apartment,16469042
+1179,3,3,5,15,1,Waterfront,Studio,10242286
+3377,3,2,4,5,2,Suburbs,Apartment,20749313
+3504,2,1,29,11,1,Suburbs,Independent House,21877039
+3519,2,1,10,10,0,Rural,Independent House,17398272
+902,2,1,3,2,2,Suburbs,Villa,13520338
+2854,3,3,12,3,2,Rural,Apartment,13193731
+2151,4,3,10,12,0,Rural,Villa,17652201
+1204,3,3,2,5,2,Rural,Apartment,8366594
+2546,2,1,0,5,2,Suburbs,Independent House,20125761
+3131,5,4,5,6,0,Suburbs,Villa,32153817
+2295,4,3,17,9,2,Rural,Independent House,15305492
+3173,3,2,23,2,2,Suburbs,Apartment,17743628
+1970,3,2,9,12,1,Suburbs,Studio,9580881
+1360,3,3,4,3,0,City Center,Villa,24208589
+3060,2,2,22,12,0,Rural,Apartment,12680378
+1885,3,2,9,17,2,City Center,Apartment,18487019
+3090,4,3,11,10,2,Rural,Independent House,18389889
+1428,1,1,1,14,1,Industrial Zone,Independent House,9884759
+3689,2,1,12,17,1,Suburbs,Independent House,24784793
+902,1,1,7,18,1,Suburbs,Apartment,8634757
+3214,1,1,1,19,1,Waterfront,Apartment,22381966
+797,4,3,19,17,1,Industrial Zone,Villa,11076141
+1270,4,3,0,14,0,Waterfront,Apartment,17364295
+3242,3,3,4,9,2,Industrial Zone,Villa,20679674
+792,1,1,8,8,1,City Center,Studio,6509142
+606,3,3,16,2,2,City Center,Studio,8302099
+1438,3,2,8,13,1,Suburbs,Studio,8324744
+2281,2,2,10,7,0,City Center,Independent House,23991064
+3339,3,3,14,9,0,Suburbs,Apartment,20477398
+1884,3,3,23,11,1,Suburbs,Villa,20904847
+1263,3,3,5,14,2,Suburbs,Villa,19553490
+3190,3,3,22,4,0,Industrial Zone,Independent House,15795908
+3712,1,1,2,13,2,Industrial Zone,Apartment,13271952
+963,3,2,29,2,1,Suburbs,Villa,13481479
+1420,3,2,16,5,2,Industrial Zone,Apartment,7608433
+495,3,3,4,11,1,Suburbs,Villa,14759534
+2323,4,4,29,6,2,Waterfront,Independent House,25392892
+2157,3,3,27,18,2,City Center,Independent House,23837581
+2932,2,1,11,10,1,Waterfront,Apartment,20292649
+3878,1,1,17,4,0,Rural,Studio,8887441
+2678,3,2,13,9,2,Suburbs,Independent House,22100602
+3196,1,1,20,6,2,City Center,Apartment,20442567
+2078,3,2,23,2,0,Suburbs,Apartment,13312930
+3642,5,4,10,17,2,City Center,Apartment,30805877
+940,3,2,8,5,2,City Center,Apartment,13525103
+1459,3,2,1,6,2,Rural,Studio,7007320
+2972,3,2,11,12,2,Suburbs,Villa,27599635
+1583,3,3,2,10,2,Rural,Independent House,12251166
+2122,3,3,2,6,1,Waterfront,Apartment,18725117
+3714,5,5,0,8,1,Suburbs,Apartment,24514272
+3557,3,3,7,2,1,Rural,Villa,22179474
+2219,5,4,21,12,2,City Center,Apartment,22257291
+3025,5,4,27,13,2,Industrial Zone,Villa,21485976
+3129,2,2,28,7,1,Suburbs,Studio,11493415
+3004,1,1,7,10,2,Waterfront,Villa,30376524
+1997,2,2,10,13,2,Industrial Zone,Independent House,11935081
+3460,1,1,8,17,1,Suburbs,Apartment,18310187
+3093,1,1,4,14,1,City Center,Apartment,21856004
+1195,3,2,13,2,1,Waterfront,Apartment,13571309
+1451,1,1,27,11,0,Industrial Zone,Villa,9676938
+2043,2,2,29,1,1,City Center,Apartment,15916306
+1763,4,3,2,19,0,Suburbs,Apartment,16868976
+2381,1,1,20,4,0,Industrial Zone,Villa,13259867
+1754,4,4,4,19,1,City Center,Apartment,21835839
+2063,2,2,4,11,1,Waterfront,Apartment,17270434
+1929,2,2,18,8,0,Suburbs,Apartment,13664292
+2438,3,2,26,11,2,City Center,Studio,13552351
+3819,3,2,13,4,1,Industrial Zone,Independent House,17799459
+1896,4,3,25,17,2,Suburbs,Villa,22521963
+3702,4,4,29,7,2,Suburbs,Apartment,21524389
+2637,4,3,3,8,0,City Center,Studio,16555430
+3696,2,2,24,3,1,City Center,Independent House,29802985
+1808,2,1,12,2,0,Rural,Apartment,8981381
+1800,4,3,9,15,1,Suburbs,Independent House,19056082
+1706,4,3,24,5,1,Rural,Apartment,10192605
+3080,5,5,17,1,1,Industrial Zone,Villa,22093861
+3075,3,2,7,4,1,Rural,Independent House,16713948
+1372,3,2,7,15,1,City Center,Apartment,16471991
+2168,4,4,6,19,0,Suburbs,Studio,12582639
+1682,2,1,7,3,1,Waterfront,Independent House,19295755
+3830,5,5,13,11,1,Industrial Zone,Villa,24863209
+1109,4,3,18,17,1,Rural,Apartment,9358735
+1879,3,3,28,13,1,Suburbs,Apartment,12713144
+1834,4,4,5,11,2,Suburbs,Apartment,15997970
+1048,4,3,0,2,0,Industrial Zone,Independent House,10646696
+717,2,2,22,9,1,Waterfront,Apartment,10402404
+3696,5,5,14,2,1,Rural,Villa,25002233
+1657,3,3,0,9,1,Industrial Zone,Independent House,12580076
+1083,4,4,24,9,2,Industrial Zone,Apartment,8143763
+1063,2,2,16,8,2,City Center,Independent House,14745111
+2398,4,4,0,17,1,Suburbs,Apartment,19003093
+3845,3,2,14,1,2,City Center,Studio,19638730
+2031,1,1,22,11,2,City Center,Villa,22200638
+1895,5,5,1,8,2,Waterfront,Apartment,21912906
+3704,1,1,13,10,2,Suburbs,Apartment,18409080
+1536,2,1,20,7,2,Suburbs,Villa,15978608
+2253,5,4,7,3,0,City Center,Independent House,29093210
+1920,5,4,7,3,0,Suburbs,Independent House,20557987
+2889,3,2,18,18,1,City Center,Independent House,29193407
+963,3,2,6,5,0,City Center,Apartment,13799227
+1691,3,2,18,12,1,Rural,Apartment,9249431
+3981,2,2,5,12,1,Suburbs,Apartment,21510550
+3857,2,2,5,19,1,Rural,Villa,23191400
+3858,3,2,2,6,2,City Center,Independent House,34854809
+3584,4,4,6,2,2,City Center,Villa,42983003
+2036,4,4,18,12,0,Suburbs,Apartment,15880707
+3399,4,4,7,19,1,Rural,Villa,24139997
+3552,1,1,9,5,2,Rural,Independent House,15867618
+1098,3,2,19,12,0,Suburbs,Independent House,13119714
+2560,1,1,14,17,2,Suburbs,Independent House,18286473
+401,3,2,14,17,1,Industrial Zone,Apartment,5724976
+1041,3,3,28,10,1,City Center,Apartment,13051230
+2667,4,4,0,17,2,Suburbs,Independent House,23890286
+1989,3,3,19,15,1,Industrial Zone,Independent House,11722268
+1254,2,2,29,12,1,Rural,Apartment,8187421
+2159,2,1,6,16,2,Suburbs,Independent House,18029382
+3696,4,3,26,19,0,Waterfront,Independent House,32028908
+2832,3,2,3,8,1,Industrial Zone,Independent House,14726904
+3874,2,2,28,17,2,Suburbs,Independent House,26582108
+2061,1,1,5,5,0,Rural,Apartment,8739301
+1553,4,4,24,16,2,Rural,Villa,16054107
+1476,1,1,0,6,1,Suburbs,Villa,16256958
+2107,4,4,28,8,1,Suburbs,Independent House,19068703
+3177,4,4,4,18,1,Suburbs,Independent House,27515785
+2095,1,1,26,12,1,Rural,Independent House,9530321
+2133,1,1,22,15,2,Suburbs,Apartment,11814483
+1839,5,4,0,9,2,Industrial Zone,Independent House,14553668
+2694,3,2,29,13,1,Rural,Independent House,14017547
+1235,3,2,3,15,2,City Center,Independent House,19646486
+3910,4,4,21,10,1,Rural,Independent House,21301856
+602,5,4,1,16,1,Suburbs,Independent House,16011943
+3655,5,4,9,7,1,Rural,Villa,26288308
+522,4,4,4,17,1,Rural,Villa,12562087
+800,3,3,26,7,1,City Center,Apartment,12172230
+1166,1,1,9,14,2,Suburbs,Apartment,9583064
+693,4,3,0,15,1,City Center,Independent House,18474487
+2727,3,3,21,7,0,City Center,Independent House,27400659
+3331,3,3,5,9,0,Suburbs,Apartment,19894674
+597,5,5,12,19,1,Suburbs,Apartment,12788372
+3429,2,1,14,16,2,Waterfront,Independent House,29513229
+2330,3,3,3,8,1,Suburbs,Apartment,17058246
+3982,1,1,12,18,1,Suburbs,Apartment,19730978
+3199,3,2,23,18,1,Rural,Apartment,14179175
+2591,1,1,19,7,1,City Center,Apartment,17190422
+1008,2,2,23,3,1,Waterfront,Apartment,11000151
+3672,2,1,14,18,1,Rural,Apartment,14717186
+1547,3,3,28,10,2,Industrial Zone,Villa,12935627
+586,4,4,7,7,2,City Center,Independent House,17039248
+3797,3,2,4,17,1,Suburbs,Villa,33705639
+2911,5,4,28,14,0,Suburbs,Independent House,25029484
+3820,3,3,14,3,0,Industrial Zone,Apartment,14556697
+2194,2,1,3,12,0,City Center,Apartment,17929291
+1059,4,4,11,13,1,Suburbs,Independent House,16473811
+3211,2,2,12,2,1,Waterfront,Apartment,21884434
+3402,5,5,1,3,1,Suburbs,Villa,34055327
+2355,1,1,26,5,1,Suburbs,Villa,18168030

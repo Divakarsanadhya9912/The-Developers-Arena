@@ -1,0 +1,51 @@
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body { font-family: 'Segoe UI', system-ui, sans-serif; background: #f0f4f8; color: #2d3748; }
+
+header {
+  background: linear-gradient(135deg, #1a237e 0%, #0d47a1 60%, #1565c0 100%);
+  color: white; padding: 32px 24px; text-align: center;
+}
+header h1 { font-size: 2rem; font-weight: 700; }
+.subtitle { margin-top: 8px; opacity: 0.85; font-size: 1rem; }
+
+main { max-width: 900px; margin: 32px auto; padding: 0 16px; display: flex; flex-direction: column; gap: 24px; }
+
+.card {
+  background: white; border-radius: 12px;
+  box-shadow: 0 4px 20px rgba(0,0,0,0.08); padding: 28px;
+}
+.card h2 { font-size: 1.3rem; color: #1a237e; margin-bottom: 20px; font-weight: 600; }
+.card h3 { font-size: 1.1rem; color: #1a237e; margin-bottom: 12px; }
+
+.form-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 18px; }
+.form-group { display: flex; flex-direction: column; gap: 6px; }
+.form-group label { font-size: 0.85rem; font-weight: 600; color: #4a5568; text-transform: uppercase; letter-spacing: 0.04em; }
+.form-group input, .form-group select {
+  padding: 10px 12px; border: 1.5px solid #e2e8f0; border-radius: 8px;
+  font-size: 1rem; color: #2d3748; transition: border-color 0.2s;
+}
+.form-group input:focus, .form-group select:focus {
+  outline: none; border-color: #0d47a1; box-shadow: 0 0 0 3px rgba(13,71,161,0.1);
+}
+
+.btn-predict {
+  margin-top: 22px; width: 100%; padding: 14px;
+  background: linear-gradient(135deg, #0d47a1, #1565c0);
+  color: white; border: none; border-radius: 8px; font-size: 1.1rem;
+  font-weight: 600; cursor: pointer; transition: opacity 0.2s, transform 0.1s;
+}
+.btn-predict:hover { opacity: 0.92; transform: translateY(-1px); }
+.btn-predict:active { transform: translateY(0); }
+
+.price-display { text-align: center; padding: 24px 0 12px; }
+.price-label { display: block; font-size: 0.9rem; color: #718096; text-transform: uppercase; letter-spacing: 0.05em; }
+.price-value { display: block; font-size: 2.8rem; font-weight: 800; color: #1a237e; margin-top: 8px; }
+
+.range-display { text-align: center; padding: 8px 0 16px; color: #4a5568; font-size: 0.95rem; }
+.range-label { font-weight: 600; }
+
+.error-msg { background: #fff5f5; border: 1px solid #feb2b2; color: #c53030; padding: 12px 16px; border-radius: 8px; margin-top: 12px; }
+
+.info-card ul { list-style: none; display: flex; flex-wrap: wrap; gap: 12px 32px; }
+.info-card li { font-size: 0.95rem; color: #4a5568; }
+.info-card strong { color: #2d3748; }

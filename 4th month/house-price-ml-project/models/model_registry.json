@@ -1,0 +1,47 @@
+[
+  {
+    "model_name": "Linear Regression",
+    "version": "v1",
+    "timestamp": "20260613_023345",
+    "metrics": {
+      "model_name": "Linear Regression",
+      "mae": 1198342.427624311,
+      "rmse": 1577646.9206354192,
+      "r2": 0.9461772667606988,
+      "mape": 7.793302397318843,
+      "cv_mean": 0.9372444316353647,
+      "cv_std": 0.010783464480967798
+    },
+    "file": "models/linear_regression_v1_20260613_023345.pkl"
+  },
+  {
+    "model_name": "Linear Regression",
+    "version": "v1",
+    "timestamp": "20260613_085824",
+    "metrics": {
+      "model_name": "Linear Regression",
+      "mae": 1198342.4276243125,
+      "rmse": 1577646.9206354187,
+      "r2": 0.9461772667606988,
+      "mape": 7.7933023973188655,
+      "cv_mean": 0.9372444316353645,
+      "cv_std": 0.010783464480967748
+    },
+    "file": "models\\linear_regression_v1_20260613_085824.pkl"
+  },
+  {
+    "model_name": "Linear Regression",
+    "version": "v1",
+    "timestamp": "20260613_090056",
+    "metrics": {
+      "model_name": "Linear Regression",
+      "mae": 1198342.4276243125,
+      "rmse": 1577646.9206354187,
+      "r2": 0.9461772667606988,
+      "mape": 7.7933023973188655,
+      "cv_mean": 0.9372444316353645,
+      "cv_std": 0.010783464480967748
+    },
+    "file": "models\\linear_regression_v1_20260613_090056.pkl"
+  }
+]

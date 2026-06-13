@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>🏠 House Price Predictor</title>
+  <link rel="stylesheet" href="/static/css/style.css">
+</head>
+<body>
+  <header>
+    <div class="header-inner">
+      <h1>🏠 House Price Prediction System</h1>
+      <p class="subtitle">ML-powered property valuation using {{ model_info.get('model_name', 'ML Model') }}</p>
+    </div>
+  </header>
+
+  <main>
+    <div class="card form-card">
+      <h2>Enter Property Details</h2>
+      <form id="predict-form">
+        <div class="form-grid">
+          <div class="form-group">
+            <label>Area (sqft)</label>
+            <input type="number" id="area_sqft" name="area_sqft" min="100" max="10000" value="1200" required>
+          </div>
+          <div class="form-group">
+            <label>Bedrooms</label>
+            <input type="number" id="bedrooms" name="bedrooms" min="1" max="10" value="3" required>
+          </div>
+          <div class="form-group">
+            <label>Bathrooms</label>
+            <input type="number" id="bathrooms" name="bathrooms" min="1" max="10" value="2" required>
+          </div>
+          <div class="form-group">
+            <label>Property Age (years)</label>
+            <input type="number" id="age_years" name="age_years" min="0" max="100" value="5" required>
+          </div>
+          <div class="form-group">
+            <label>Floors</label>
+            <input type="number" id="floors" name="floors" min="1" max="30" value="5" required>
+          </div>
+          <div class="form-group">
+            <label>Parking Spaces</label>
+            <input type="number" id="parking_spaces" name="parking_spaces" min="0" max="5" value="1" required>
+          </div>
+          <div class="form-group">
+            <label>Location</label>
+            <select id="location" name="location" required>
+              {% for loc in locations %}
+              <option value="{{ loc }}" {% if loc == 'City Center' %}selected{% endif %}>{{ loc }}</option>
+              {% endfor %}
+            </select>
+          </div>
+          <div class="form-group">
+            <label>Property Type</label>
+            <select id="property_type" name="property_type" required>
+              {% for pt in property_types %}
+              <option value="{{ pt }}" {% if pt == 'Apartment' %}selected{% endif %}>{{ pt }}</option>
+              {% endfor %}
+            </select>
+          </div>
+        </div>
+        <button type="submit" class="btn-predict">🔍 Predict Price</button>
+      </form>
+    </div>
+
+    <div class="card result-card" id="result-section" style="display:none;">
+      <h2>Prediction Result</h2>
+      <div class="price-display">
+        <span class="price-label">Estimated Price</span>
+        <span class="price-value" id="price-value">—</span>
+      </div>
+      <div class="range-display">
+        <span class="range-label">Confidence Range:</span>
+        <span class="range-value" id="range-value">—</span>
+      </div>
+      <div class="error-msg" id="error-msg" style="display:none;"></div>
+    </div>
+
+    <div class="card info-card">
+      <h3>ℹ️ Model Info</h3>
+      <ul>
+        <li><strong>Algorithm:</strong> {{ model_info.get('model_name', 'N/A') }}</li>
+        <li><strong>Version:</strong> {{ model_info.get('version', 'v1') }}</li>
+        <li><strong>R² Score:</strong> {{ "%.4f"|format(model_info.get('metrics', {}).get('r2', 0)) }}</li>
+        <li><strong>MAE:</strong> ₹{{ "{:,.0f}".format(model_info.get('metrics', {}).get('mae', 0)) }}</li>
+      </ul>
+    </div>
+  </main>
+
+  <script src="/static/js/app.js"></script>
+</body>
+</html>

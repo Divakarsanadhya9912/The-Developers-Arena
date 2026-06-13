@@ -1,0 +1,109 @@
+{
+  "all_models": [
+    {
+      "model_name": "Linear Regression",
+      "mae": 1198342.4276243125,
+      "rmse": 1577646.9206354187,
+      "r2": 0.9461772667606988,
+      "mape": 7.7933023973188655,
+      "cv_mean": 0.9372444316353645,
+      "cv_std": 0.010783464480967748
+    },
+    {
+      "model_name": "Random Forest",
+      "mae": 1835799.3279031015,
+      "rmse": 2499813.8711307067,
+      "r2": 0.8648669847455223,
+      "mape": 11.628014724419842,
+      "cv_mean": 0.7846454018353709,
+      "cv_std": 0.039564571341253144
+    },
+    {
+      "model_name": "Gradient Boosting",
+      "mae": 1245271.3307338732,
+      "rmse": 1643410.8576297846,
+      "r2": 0.9415965605362813,
+      "mape": 7.852192932158224,
+      "cv_mean": 0.9091172306870627,
+      "cv_std": 0.022787721835261347
+    }
+  ],
+  "best_model": "Linear Regression",
+  "best_metrics": {
+    "model_name": "Linear Regression",
+    "mae": 1198342.4276243125,
+    "rmse": 1577646.9206354187,
+    "r2": 0.9461772667606988,
+    "mape": 7.7933023973188655,
+    "cv_mean": 0.9372444316353645,
+    "cv_std": 0.010783464480967748
+  },
+  "model_path": "models\\linear_regression_v1_20260613_090056.pkl",
+  "feature_importance": [
+    {
+      "feature": "area_sqft",
+      "importance": 0.8650109126046184,
+      "importance_pct": 38.01
+    },
+    {
+      "feature": "location",
+      "importance": 0.7378532264161741,
+      "importance_pct": 32.42
+    },
+    {
+      "feature": "property_type",
+      "importance": 0.5573460389393613,
+      "importance_pct": 24.49
+    },
+    {
+      "feature": "bedrooms",
+      "importance": 0.04953200257820872,
+      "importance_pct": 2.18
+    },
+    {
+      "feature": "total_rooms",
+      "importance": 0.02502458877817797,
+      "importance_pct": 1.1
+    },
+    {
+      "feature": "age_years",
+      "importance": 0.016728966768310573,
+      "importance_pct": 0.74
+    },
+    {
+      "feature": "floors",
+      "importance": 0.01242335753963546,
+      "importance_pct": 0.55
+    },
+    {
+      "feature": "bathrooms",
+      "importance": 0.0050397991123258155,
+      "importance_pct": 0.22
+    },
+    {
+      "feature": "parking_spaces",
+      "importance": 0.002863806221074727,
+      "importance_pct": 0.13
+    },
+    {
+      "feature": "has_parking",
+      "importance": 0.0016644905288514145,
+      "importance_pct": 0.07
+    },
+    {
+      "feature": "room_ratio",
+      "importance": 0.0014951682974397307,
+      "importance_pct": 0.07
+    },
+    {
+      "feature": "size_category",
+      "importance": 0.0010948924186361508,
+      "importance_pct": 0.05
+    },
+    {
+      "feature": "is_new",
+      "importance": -5.041966177273816e-05,
+      "importance_pct": -0.0
+    }
+  ]
+}

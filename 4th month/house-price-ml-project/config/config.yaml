@@ -1,0 +1,32 @@
+# config/config.yaml
+model:
+  test_size: 0.2
+  random_state: 42
+  cv_folds: 5
+
+features:
+  numeric:
+    - area_sqft
+    - bedrooms
+    - bathrooms
+    - age_years
+    - floors
+    - parking_spaces
+    - room_ratio
+    - total_rooms
+    - is_new
+    - has_parking
+  categorical:
+    - location
+    - property_type
+    - size_category
+
+paths:
+  data: data/house_prices.csv
+  models: models/
+  plots: docs/plots/
+
+web:
+  host: "0.0.0.0"
+  port: 5000
+  debug: true
