@@ -1,0 +1,6 @@
+{
+  "name": "Bank Customer Churn Prediction System",
+  "description": "An end-to-end industry-ready Bank Customer Churn Prediction System including ML pipeline, FastAPI backend, and Streamlit frontend.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
